@@ -1,0 +1,18 @@
+Start
+  // Step 1: Gather ingredients
+  Get taco shell
+  Get protein (e.g., beef, chicken, beans)
+  Get toppings (e.g., lettuce, cheese, salsa, sour cream)
+
+  // Step 2: Cook protein
+  If protein is not cooked
+      Cook protein until done
+
+  // Step 3: Assemble taco
+  Place protein into taco shell
+  Add toppings (lettuce, cheese, salsa, sour cream)
+
+  // Step 4: Serve
+  Serve taco
+
+End
